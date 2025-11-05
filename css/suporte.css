@@ -1,0 +1,31 @@
+header{
+    background: gray
+}
+
+main{
+    margin-top: 50px;
+}
+
+h2{
+    max-width: 500px;
+}
+
+#cta-chamado{
+    background: var(--azul-vibrante);
+    padding: 8px 16px;
+    margin: 16px 0 30px 0;
+    border: none;
+    color: #FFF;
+    border-radius: 4px;
+}
+
+table{
+    border-spacing: 16px 0;
+    border-collapse: separate;
+}
+
+#canais-suporte{
+    border: 1px solid var(--detalhes-bordas);
+    width: 100%;
+    padding: 20px 16px;
+}
